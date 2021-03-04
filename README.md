@@ -1,4 +1,4 @@
-# Simple Interest Calculator Flutter Application
+# Simple Interest Calculator Flutter Applications
 
 This is a Flutter application which is used to find Simple Interest
 
